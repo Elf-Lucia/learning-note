@@ -26,7 +26,7 @@
 ## Nodejs是什么？
 
 - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engin
-  - Nodejs不是库不是框架，Nodejs不是一门语言
+  - Nodejs不是库不是框架，Nodejs不是一门语言,是一个平台
   - Nodejs是javascript运行时环境
     - 什么是JavaScript？
       - 脚本语言
